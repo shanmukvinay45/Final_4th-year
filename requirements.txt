@@ -13,6 +13,6 @@ groq
 langchain-groq
 python-dotenv
 BeautifulSoup4
-googlesearch
+googlesearch-python
 requests
 python-whois
